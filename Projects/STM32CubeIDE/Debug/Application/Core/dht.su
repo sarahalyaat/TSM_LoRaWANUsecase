@@ -1,0 +1,6 @@
+dht.c:29:6:SetPin_Input	32	static
+dht.c:42:6:SetPin_Output	32	static
+dht.c:55:6:DHT11_Start	16	static
+dht.c:72:9:DHT11_Check_Response	16	static
+dht.c:91:9:DHT11_Read	24	static
+dht.c:110:9:DHT11_Process	32	static
